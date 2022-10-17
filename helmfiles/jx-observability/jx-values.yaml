@@ -1,0 +1,5 @@
+jx:
+  secrets:
+    admin-user:
+      password: password
+      username: admin
