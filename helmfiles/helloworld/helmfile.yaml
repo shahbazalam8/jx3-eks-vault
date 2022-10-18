@@ -1,5 +1,3 @@
-filepath: ""
-environments:
 namespace: hello
 repositories:
 - name: ahoy
