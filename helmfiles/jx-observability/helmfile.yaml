@@ -40,4 +40,5 @@ releases:
   name: grafana
 - chart: prometheus-community/prometheus
   name: prometheus
-- chart: jx3-eks-vault/charts/jx-observability
+- chart: ./charts/grafana
+  name: grafanasecret
