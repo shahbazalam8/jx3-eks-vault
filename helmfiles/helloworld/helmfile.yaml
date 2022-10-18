@@ -1,4 +1,7 @@
-namespace: hello
+namespace: helloworld
 repositories:
 - name: ahoy
   url: https://helm.github.io/examples
+releases:
+- chart: examples/hello-world
+  name: ahoy
