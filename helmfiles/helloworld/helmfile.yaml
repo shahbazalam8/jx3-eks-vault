@@ -1,9 +1,6 @@
 filepath: ""
 environments:
-  default:
-    values:
-    - jx-values.yaml
 namespace: hello
 repositories:
 - name: ahoy
-  url: examples/hello-world
+  url: https://helm.github.io/examples
