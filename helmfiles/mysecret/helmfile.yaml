@@ -1,4 +1,4 @@
-namespace: helloworld
+namespace: secret
 repositories:
 releases:
 - chart: ./charts/mysecret
