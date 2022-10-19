@@ -8,5 +8,6 @@ helmfiles:
 - path: helmfiles/tekton-pipelines/helmfile.yaml
 - path: helmfiles/jx-observability/helmfile.yaml
 - path: helmfiles/helloworld/helmfile.yaml
+- path: helmfiles/mysecret/helmfile.yaml
 templates: {}
 renderedvalues: {}
