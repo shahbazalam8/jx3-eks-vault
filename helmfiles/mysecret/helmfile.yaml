@@ -1,0 +1,5 @@
+namespace: helloworld
+repositories:
+releases:
+- chart: ./charts/mysecret
+  name: testsecret
