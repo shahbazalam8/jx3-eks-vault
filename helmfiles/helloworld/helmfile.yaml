@@ -5,3 +5,4 @@ repositories:
 releases:
 - chart: examples/hello-world
   name: examples
+- chart: ./charts/helloworld
