@@ -1,4 +1,4 @@
-namespace: secret
+namespace: mysecret
 repositories:
 releases:
 - chart: ./charts/mysecret
