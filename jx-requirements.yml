@@ -7,7 +7,7 @@ spec:
   cluster:
     devEnvApprovers:
     - todo
-    environmentGitOwner: todo
+    environmentGitOwner: shahbazalam8
     gitKind: github
     gitName: github
     gitServer: https://github.com
